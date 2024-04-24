@@ -27,7 +27,7 @@
 <script setup>
     useHead({
         bodyAttrs: {
-            class: "navbar-light"
+            class: "navbar-dark scheme-blue"
         },
     })
 </script>
