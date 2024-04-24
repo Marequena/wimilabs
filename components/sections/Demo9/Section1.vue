@@ -7,11 +7,11 @@
                     <div class="hero-9-txt wow fadeInUp">
                         <!-- Title -->
                         <h2 class="s-56 w-700">
-                            Show the world <img src="/assets/images/png_icons/loud-speaker.png" alt="icon" />
-                            about the potential you have
+                            Conoce nuestro potencial <img src="/assets/images/png_icons/loud-speaker.png" alt="icon" />
+                            y te sorprenderas
                         </h2>
                         <!-- Text -->
-                        <p class="s-20">Mauris donec ociis diam magnis sapien sagittis sapien tempor volute gravida and aliquet tortor undo aliquet in quaerat tortor</p>
+                        <p class="s-20">El sistema administrativo para tu negocio, potencia tus ventas, contrala tu inventario y aumenta tus ingresos.</p>
                         <!-- HERO QUICK FORM -->
                         <form name="quickform" class="quick-form form-stroke mt-45">
                             <!-- Form Inputs -->
